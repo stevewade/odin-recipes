@@ -66,8 +66,9 @@ img {
     margin: 20px 100px;
     padding-bottom: 10;
     background-color: #8edaff;
-    border: 2px solid #lightgrey;
+    border: 2px solid lightgrey;   
 }
+
  a.home-link span{
     background-color: #d34330;
     color: white;
